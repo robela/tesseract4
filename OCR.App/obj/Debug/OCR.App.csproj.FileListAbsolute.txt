@@ -1,0 +1,67 @@
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\OCR.App.exe.config
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.danbloomberg.leptonica-1.75.0.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.jpeg-9.2.0.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.madler.zlib-1.2.11.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.openjpeg.openjp2-2.3.0.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.png-1.6.33.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.tiff-4.0.9.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.webp-0.6.0.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.xz_utils.lzma-5.2.3.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.danbloomberg.leptonica-1.75.0.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.jpeg-9.2.0.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.madler.zlib-1.2.11.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.openjpeg.openjp2-2.3.0.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.png-1.6.33.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.tiff-4.0.9.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.webp-0.6.0.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.xz_utils.lzma-5.2.3.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.google.tesseract.libtesseract400.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.google.tesseract.libtesseract400.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\OCR.App.exe
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\OCR.App.pdb
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\leptonica.net.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\obj\Debug\OCR.App.csprojResolveAssemblyReference.cache
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\obj\Debug\OCR.App.Form1.resources
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\obj\Debug\OCR.App.Properties.Resources.resources
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\obj\Debug\OCR.App.csproj.GenerateResource.Cache
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\obj\Debug\OCR.App.exe
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\obj\Debug\OCR.App.pdb
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x64\liblept172.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x64\libtesseract304.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x86\liblept172.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\x86\libtesseract304.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\Tesseract.dll
+c:\users\ethiopia\documents\visual studio 2015\Projects\OCR.App\OCR.App\bin\Debug\Tesseract.xml
+D:\OCR.App\OCR.App\bin\Debug\OCR.App.exe.config
+D:\OCR.App\OCR.App\obj\Debug\OCR.App.exe
+D:\OCR.App\OCR.App\obj\Debug\OCR.App.pdb
+D:\OCR.App\OCR.App\bin\Debug\x64\liblept172.dll
+D:\OCR.App\OCR.App\bin\Debug\x64\libtesseract304.dll
+D:\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.danbloomberg.leptonica-1.75.0.dll
+D:\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.jpeg-9.2.0.dll
+D:\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.madler.zlib-1.2.11.dll
+D:\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.openjpeg.openjp2-2.3.0.dll
+D:\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.png-1.6.33.dll
+D:\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.tiff-4.0.9.dll
+D:\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.webp-0.6.0.dll
+D:\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.xz_utils.lzma-5.2.3.dll
+D:\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.danbloomberg.leptonica-1.75.0.dll
+D:\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.jpeg-9.2.0.dll
+D:\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.madler.zlib-1.2.11.dll
+D:\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.openjpeg.openjp2-2.3.0.dll
+D:\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.png-1.6.33.dll
+D:\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.tiff-4.0.9.dll
+D:\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.webp-0.6.0.dll
+D:\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.xz_utils.lzma-5.2.3.dll
+D:\OCR.App\OCR.App\bin\Debug\x64\pvt.cppan.demo.google.tesseract.libtesseract400.dll
+D:\OCR.App\OCR.App\bin\Debug\x86\pvt.cppan.demo.google.tesseract.libtesseract400.dll
+D:\OCR.App\OCR.App\bin\Debug\OCR.App.exe
+D:\OCR.App\OCR.App\bin\Debug\OCR.App.pdb
+D:\OCR.App\OCR.App\bin\Debug\leptonica.net.dll
+D:\OCR.App\OCR.App\bin\Debug\Tesseract.dll
+D:\OCR.App\OCR.App\obj\Debug\OCR.App.csprojResolveAssemblyReference.cache
+D:\OCR.App\OCR.App\obj\Debug\OCR.App.Form1.resources
+D:\OCR.App\OCR.App\obj\Debug\OCR.App.Properties.Resources.resources
+D:\OCR.App\OCR.App\obj\Debug\OCR.App.csproj.GenerateResource.Cache
+D:\OCR.App\OCR.App\bin\Debug\x64\x86\liblept172.dll
+D:\OCR.App\OCR.App\bin\Debug\x64\x86\libtesseract304.dll
